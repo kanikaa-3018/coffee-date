@@ -1,5 +1,5 @@
 import React from 'react'
-import LoveDialog from './components/loveDialog.jsx'
+import LoveDialog from './components/LoveDialog.jsx'
 
 const App = () => {
   return (
